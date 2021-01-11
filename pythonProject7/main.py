@@ -1,7 +1,7 @@
 
 
-from board import Board
-from functions import Controller
+from board.board import Board
+from functions.functions import Controller
 
 if __name__ == '__main__':
     board=Board("data")
